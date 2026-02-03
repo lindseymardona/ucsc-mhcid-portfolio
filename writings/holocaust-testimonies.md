@@ -4,12 +4,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Date** | June 2022 |
-| **Context** | Academic |
-| **Course / Organization** | UCLA Digital Humanities 199 Capstone Project |
+| **Date** | June 2025 |
+| **Context** | Personal |
+| **Course / Organization** | Grow With Google x Mentor Me Collective UX Design Capstone Project |
 | **Tools & Methods** | Python (NLTK, spaCy, scikit-learn), GPT-2 & GPT-3, manual sentiment annotation, NLP, named entity recognition, geocoding, data visualization |
 | **Data Sources** | Shoah Foundation Visual History Archive (English-language testimonies) |
-| **Links** | [Final paper](https://docs.google.com/document/d/1d7dr2HnSEuHJAI5LtIhl87N2PUI582vfQRMDF0BzhpY/edit?pli=1&tab=t.0#heading=h.nydpli2bejf4) |
+| **Links** | [Final Paper](https://docs.google.com/document/d/1d7dr2HnSEuHJAI5LtIhl87N2PUI582vfQRMDF0BzhpY/edit?pli=1&tab=t.0#heading=h.nydpli2bejf4) |
 
 <img
   src="https://github.com/user-attachments/assets/16418c89-afb3-4730-b480-9c0dd98afb5a"
@@ -43,12 +43,11 @@ This project investigates how sentiment and emotional complexity are associated 
 ### Team & Contributions
 
 **Team Members:**  
-- Laurel Woods — Data Visualization  
-- Lindsey Mardona — Sentiment Analysis  
-- Ulysses Pascal — Mapping  
+This was an individual project.
 
 **My Role:**  
-I designed the overall research framework and led the integration of sentiment analysis with geographic analysis. My contributions included manually annotating testimony segments for sentiment, evaluating multiple NLP approaches (dictionary-based methods, linear classifiers, and transformer models), fine-tuning a GPT-2 model, and coordinating the geocoding of place entities extracted from survivor testimonies. I also synthesized results across models, contributed to data interpretation, and served as a primary author of the final paper.
+I independently conceptualized, designed, and developed *Gingko*, a mobile app aimed at helping Asian Americans find culturally sensitive mental health support. My work included conducting user research, defining the problem space, designing user flows, creating wireframes and high-fidelity mockups, and building interactive prototypes in Figma. I also made key product and UX decisions to ensure the app addressed cultural nuance, accessibility, and user trust.
+
 
 ### Reflection
 This project highlighted both the promise and the ethical challenges of applying computational methods to survivor testimony. While transformer-based models significantly outperformed traditional sentiment analysis techniques, the research underscored that sentiment in Holocaust testimonies is often ambiguous, multidimensional, and resistant to categorical classification. Through manual annotation and close reading, I became acutely aware of how emotional meaning depends on historical context, narrative framing, and human interpretation. This work strengthened my ability to critically evaluate digital tools, balance quantitative analysis with humanistic inquiry, and design research workflows that respect the complexity of lived experience rather than oversimplifying it.
