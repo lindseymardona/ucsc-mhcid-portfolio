@@ -11,11 +11,13 @@
 | **Data Sources** | Shoah Foundation Visual History Archive (English-language testimonies) |
 | **Links** | [Final Paper](https://docs.google.com/document/d/1d7dr2HnSEuHJAI5LtIhl87N2PUI582vfQRMDF0BzhpY/edit?pli=1&tab=t.0#heading=h.nydpli2bejf4) |
 
-<img
-  src="https://github.com/user-attachments/assets/16418c89-afb3-4730-b480-9c0dd98afb5a"
-  alt="Visualization from the project"
-  width="900"
-/>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/16418c89-afb3-4730-b480-9c0dd98afb5a"
+    alt="Visualization from the project"
+    width="900"
+  />
+</p>
 
 ## Summary
 This project investigates how sentiment and emotional complexity are associated with geographic places in Holocaust survivor testimonies. Using nearly 1,000 English-language oral history transcripts from the Shoah Foundation, the study combines manual annotation, natural language processing, and geospatial analysis to examine how affect varies across narrative time and location. Rather than reducing places to fixed emotional meanings, the project critically evaluates the limits of computational sentiment analysis when applied to historically and ethically complex material, showing how survivor memories of places such as camps, refugee sites, and postwar destinations contain layered and sometimes contradictory emotions.
