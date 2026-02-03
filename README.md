@@ -45,6 +45,15 @@
 
 **[Read the summary](https://github.com/lindseymardona/ucsc-mhcid-portfolio/blob/main/images/lchd-stickers.md)**
 
+### Motion Graphics
+<img
+  src="https://img.youtube.com/vi/fD5cIwFE9Zg/maxresdefault.jpg"
+  alt="September-san"
+  width="600"
+/>
+
+**[Read the summary](https://github.com/lindseymardona/ucsc-mhcid-portfolio/blob/main/videos/motion-graphics.md)**
+
 ### Reimagining Ultimate Guitar
 <img
   src="https://lindseymardona.github.io/22s-dh110/pictures/thumbnail4-resized.png"
