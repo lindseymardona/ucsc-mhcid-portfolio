@@ -4,7 +4,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Date** | June 2025 |
+| **Date** | June 2022 |
 | **Context** | Personal |
 | **Course / Organization** | UCLA Digital Humanities 199 Capstone Project |
 | **Tools & Methods** | Python (NLTK, spaCy, scikit-learn), GPT-2 & GPT-3, manual sentiment annotation, NLP, named entity recognition, geocoding, data visualization |
