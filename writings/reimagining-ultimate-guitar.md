@@ -6,7 +6,7 @@
 |-------|---------|
 | **Date** | Spring 2022 |
 | **Context** | Academic |
-| **Course / Organization** | Digital Humanities 110 Final Project |
+| **Course / Organization** | UCLA Digital Humanities 110 Final Project |
 | **Tools & Methods** | Figma (design), Google Docs (scripts & surveys), YouTube (test recordings), heuristic evaluation, contextual inquiry, pilot usability testing, personas, empathy mapping, journey mapping, wireframing, interface design, high-fidelity prototyping |
 | **Data Sources** | Shoah Foundation Visual History Archive (English-language testimonies) |
 | **Links** | [Writeup](https://lindseymardona.github.io/22s-dh110/) · [GitHub Repository](https://github.com/lindseymardona/22s-dh110) · [Presentation](https://youtu.be/G9QvFX7EuBQ)|
