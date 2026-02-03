@@ -13,22 +13,22 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/b4d3559b-6052-4cda-83c1-8773d319c185"
-    alt="Visualization from the project"
+    alt="LCHD Sticker sketches, part 1"
     width="800"
   />
   <img
     src="https://github.com/user-attachments/assets/5beeb44f-5b6e-4409-9b88-ca9746f2fdc5"
-    alt="Visualization from the project"
+    alt="LCHD Sticker sketches, part 2"
     width="800"
   />
   <img
     src="https://github.com/user-attachments/assets/157be060-c9d2-4bba-bb96-a5c33812d9a7"
-    alt="Visualization from the project"
+    alt="LCHD stickers, vectors"
     width="800"
   />
   <img
     src="https://github.com/user-attachments/assets/8271ee92-27cb-4bd5-9c9b-cb7522524a32"
-    alt="Visualization from the project"
+    alt="LCHD stickers, final variations"
     width="800"
   />
 </p>
