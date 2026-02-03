@@ -1,5 +1,14 @@
 # ucsc-mhcid-portfolio
 
+### anixmate
+<img
+  src="https://github.com/user-attachments/assets/e5b17ec9-3ac3-480e-aaf4-084d6fdd60d7"
+  alt="Gingko home page"
+  width="600"
+/>
+
+**[Read the summary](https://github.com/lindseymardona/ucsc-mhcid-portfolio/blob/main/interactives/anixmate.md)**
+
 ### Gingko
 <img
   src="https://github.com/user-attachments/assets/676d47b1-59e6-4ad7-bbf9-d86fdf02416e"
