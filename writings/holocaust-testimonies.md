@@ -6,7 +6,7 @@
 |-------|---------|
 | **Date** | June 2025 |
 | **Context** | Personal |
-| **Course / Organization** | Grow With Google x Mentor Me Collective UX Design Capstone Project |
+| **Course / Organization** | UCLA Digital Humanities 199 Capstone Project |
 | **Tools & Methods** | Python (NLTK, spaCy, scikit-learn), GPT-2 & GPT-3, manual sentiment annotation, NLP, named entity recognition, geocoding, data visualization |
 | **Data Sources** | Shoah Foundation Visual History Archive (English-language testimonies) |
 | **Links** | [Final Paper](https://docs.google.com/document/d/1d7dr2HnSEuHJAI5LtIhl87N2PUI582vfQRMDF0BzhpY/edit?pli=1&tab=t.0#heading=h.nydpli2bejf4) |
