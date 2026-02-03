@@ -4,7 +4,7 @@
 
 | Field                     | Details                                                                                                                                                                            |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Date**                  | Spring 2025                                                                                                                                                                        |
+| **Date**                  | June 2025                                                                                                                                                                        |
 | **Context**               | Personal                                                                                                                                                                           |
 | **Course / Organization** | Grow With Google x Mentor Me Collective UX Design Capstone (UN SDG 3: Good Health & Well-being)                                                                                                                 |
 | **Tools & Methods**       | Figma, human-centered design, qualitative & quantitative research, literature review, competitive analysis, personas, journey mapping, wireframing, prototyping, usability considerations |                                                                                                                                                                          |
