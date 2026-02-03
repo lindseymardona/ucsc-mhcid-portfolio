@@ -12,9 +12,24 @@
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/9ba6c1ef-3800-4493-a691-d515262f12e3"
+    src="https://github.com/user-attachments/assets/1330f0ed-8f1e-4937-b0ea-d0ed4640fb6f"
     alt="Visualization from the project"
     width="500"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/9169b86e-58ed-48a0-b0f1-a1f4560603f3"
+    alt="Visualization from the project"
+    width="500"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/3dac4e5c-549b-4182-8e1e-41a607536242"
+    alt="Visualization from the project"
+    height="445"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/4523ca2f-c70b-4a75-81e2-cc7d45626033"
+    alt="Visualization from the project"
+    height="500"
   />
 </p>
 
