@@ -45,11 +45,12 @@ This project investigates how sentiment and emotional complexity are associated 
 ### Team & Contributions
 
 **Team Members:**  
-This was an individual project.
+- Laurel Woods — Data Visualization  
+- Lindsey Mardona — Sentiment Analysis  
+- Ulysses Pascal — Mapping  
 
 **My Role:**  
-I independently conceptualized, designed, and developed *Gingko*, a mobile app aimed at helping Asian Americans find culturally sensitive mental health support. My work included conducting user research, defining the problem space, designing user flows, creating wireframes and high-fidelity mockups, and building interactive prototypes in Figma. I also made key product and UX decisions to ensure the app addressed cultural nuance, accessibility, and user trust.
-
+I designed the overall research framework and led the integration of sentiment analysis with geographic analysis. My contributions included manually annotating testimony segments for sentiment, evaluating multiple NLP approaches (dictionary-based methods, linear classifiers, and transformer models), fine-tuning a GPT-2 model, and coordinating the geocoding of place entities extracted from survivor testimonies. I also synthesized results across models, contributed to data interpretation, and served as a primary author of the final paper.
 
 ### Reflection
 This project highlighted both the promise and the ethical challenges of applying computational methods to survivor testimony. While transformer-based models significantly outperformed traditional sentiment analysis techniques, the research underscored that sentiment in Holocaust testimonies is often ambiguous, multidimensional, and resistant to categorical classification. Through manual annotation and close reading, I became acutely aware of how emotional meaning depends on historical context, narrative framing, and human interpretation. This work strengthened my ability to critically evaluate digital tools, balance quantitative analysis with humanistic inquiry, and design research workflows that respect the complexity of lived experience rather than oversimplifying it.
